@@ -1,0 +1,195 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.lado{
+  text-align: center;
+}
+
+*{
+  font-family: 'Raleway', sans-serif;
+}
+
+#algo{
+  background-color: #419E50;
+  min-height: 64px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  margin: 0px ;
+
+}
+
+
+.imglogo{
+  height: 55px;
+  width: 60px;
+  border-radius: 40px;
+
+}
+
+a{
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.azinho:hover{
+  color: black;
+  transition-duration: 0.5s;
+}
+
+.azinho{
+  text-decoration: none;
+    transition-duration: 0.5s;
+  color: white;
+}
+
+
+.banner{
+  background: #ffffff url(/static/back.png) center center/cover no-repeat;
+  max-width: 100%;
+  height: 500px;
+}
+
+#tudo{
+  padding: 0px;
+  padding-right: 0;
+  padding-left: 0;
+  margin: 0px;
+}
+
+.hh{
+  height: 3px;
+  border-radius: 30px;
+  max-width: 500px;
+  background-color: #000000;
+  margin: 50px;
+}
+
+.centro{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+h2{
+  color: #419E50;
+  font-family: "Calibri Light";
+}
+
+.im{
+  width: 150px;
+  height: 150px;
+  margin: 20px;
+}
+
+.quadro{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  padding: 40px;
+  min-height: 320px;
+  width: 300px;
+  margin: 30px;
+  box-shadow: 8px 10px 67px rgb(0 12 0 / 30%)
+
+}
+
+.quadro:hover{
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+
+#circulo{
+  border-radius: 360px;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
+
+.bola{
+  border-radius: 360px;
+  height: 200px;
+  width: 200px;
+  box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.vv:hover{
+  transform: scale(1.0);
+  transition: 0.7s;
+}
+
+.vv{
+  color: black;
+}
+
+.vivi{
+  height: 400px;
+  width: 70%;
+  border-radius: 6px;
+  box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.numeros{
+  text-align: center;
+}
+
+
+.tt{
+  padding: 20px;
+}
+
+.mundo{
+  padding-bottom: 20px;
+}
+
+
+
+.tudinho{
+  background-color: #419E50;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  min-height: 53%;
+  max-width: 100%;
+}
+
+.ico{
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+}
+
+.rr{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.SENAI{
+  padding: 10px;
+}
+
+::-webkit-scrollbar{
+  width: 0px;
+}
